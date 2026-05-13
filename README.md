@@ -10,7 +10,7 @@ Web Project Folder Structure for Tailwind (Wright – A folder structure generat
 ‌
 Description: Wright is a simple platform designed for web designers and developers working with HTML, CSS, JavaScript, PHP, and related libraries and frameworks.
 
-It automatically creates a ready-to-use folder structure, including: A ready index.html file optimized with Tailwind CDN A dashboard/assets folder with subfolders for CSS, JS, images, and fonts A default stylesheet stylesheet.css and an empty app.js Wright helps developers save time on naming and organizing folders, reducing confusion during project setup.
+It automatically creates a ready-to-use folder structure, including: A ready ``index.html`` file optimized with Tailwind CDN A ``dashboard/assets`` folder with subfolders for CSS, JS, images, and fonts A default stylesheet ``stylesheet.css`` and an empty ``app.js`` Wright helps developers save time on naming and organizing folders, reducing confusion during project setup.
 
 To run the file, make sure Node.js is installed, then use:
 
